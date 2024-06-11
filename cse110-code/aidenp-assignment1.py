@@ -1,0 +1,7 @@
+name = input("Hi! I'm foodbot, what's your name?")
+print(name+ " ....That's a nice name!")
+food = input("So, "+name+", I am a bot that gives you something new to cook by adding a little change to your favorite food. Now tell me, what is your favorite food?")
+color = input("Alright, nice choice! Now tell me, what is your favorite color?")
+input("That's a nice color, now tell me, are you ready to find out the new food?")
+print("I'm going to tell you either way, my computing power told me that you should make "+color+" "+food)
+print("Have fun trying to make the new food! If you need any ideas just boot up foodbot!")
